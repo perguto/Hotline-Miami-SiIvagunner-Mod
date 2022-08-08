@@ -1,6 +1,6 @@
 # Hotline Miami SiIvagunner Mod
-
 Enjoy Hotline Miami with _all_ the high-quality SiIvagunner and Timmy Turner's Grand Dad rips!
+![cover.png](cover.png)
 
 ## How to Use
 
